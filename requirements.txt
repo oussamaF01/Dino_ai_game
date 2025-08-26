@@ -1,0 +1,23 @@
+# Game Development
+pygame>=2.5.0
+
+# Machine Learning
+torch>=2.0.0
+torchvision>=0.15.0
+# Alternative: tensorflow>=2.13.0
+
+# RL Environment
+gymnasium>=0.29.0
+
+# Utilities
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+
+# Logging and Visualization
+tensorboard>=2.13.0
+tqdm>=4.65.0
+
+# Optional: Stable Baselines3 for easier RL implementation
+stable-baselines3>=2.0.0
